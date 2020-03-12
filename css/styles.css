@@ -12,5 +12,9 @@ body {
   font-family: Helvetica, sans-serif;
   font-size: 1.6rem;
   color: #222;
-  background: #efefef;
+  background: khaki;
+}
+
+article h1, article h2, article h3, section p {
+	color : darkslategray;
 }
